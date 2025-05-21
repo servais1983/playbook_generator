@@ -1,0 +1,1 @@
+pandoc  # Doit être installé côté système : sudo apt install pandoc
