@@ -1,0 +1,2 @@
+# Ce fichier garantit que le répertoire output est inclus dans le dépôt Git.
+# Les playbooks générés seront stockés dans ce répertoire.
